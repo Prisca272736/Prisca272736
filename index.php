@@ -1,5 +1,5 @@
 <?php
-function(){
+function helo(){
     echo "hellouw .... i'm prisca";
 }
 
